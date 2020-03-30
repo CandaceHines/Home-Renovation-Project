@@ -33,9 +33,9 @@ Calculate specific item Minimum, Maximum, Average Cost
 Calculate Total Minimum, Maximum, Average Cost
 
 Milestone List:
-Week 1-3: Outline Project 
-Week 3-4: Add and retrieve data (Materials and Cost) to a json file or database 
-Week 5: Create specific item min, max, and average 
+Week 1-3: Outline Project.
+Week 3-4: Add and retrieve data (Materials and Cost) to a json file or database.
+Week 5: Create specific item min, max, and average.
 Week 6: Create total, min, max, and average cost.  
-Week 7: Ensure data can be updated or deleted
+Week 7: Ensure data can be updated or deleted.
 Week 8: Complete project.
